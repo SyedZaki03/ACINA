@@ -25,3 +25,5 @@ Frontend/.env
 
 # OS
 Thumbs.db
+# BERT model
+Backend/bert_model/
